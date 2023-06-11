@@ -10,12 +10,9 @@
 
 The purpose of this project is to create groupings of at risk for sudden death heart failure patients. This will enable the determination those most at-risk of sudden death and, if desired, predict which group patients belong.
 
-<h2> Part I: Exploratory Data Analysis <img src ="https://th.bing.com/th/id/OIP.j5Vj7VYXdSuB0Cho-HbMpgHaHa?pid=ImgDet&rs=1" height = 25, width = 25 />
+<h2> Part I: Data<img src ="https://th.bing.com/th/id/OIP.j5Vj7VYXdSuB0Cho-HbMpgHaHa?pid=ImgDet&rs=1" height = 25, width = 25 />
 
-</h2>
-
-
-<h2>Data</h2> 
+</h2> 
 
 The data comes from UCI Irvine Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
 
